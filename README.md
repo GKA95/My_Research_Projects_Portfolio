@@ -104,11 +104,17 @@ Generated actionable recommendations for improving power resilience and business
 ### Technologies & Tools
 
 Microsoft Excel
+
 Statistical Analysis
+
 Multiple Linear Regression (MLR)
+
 Data Visualization
+
 Survey Research
+
 Engineering Economics
+
 Predictive Modeling
 
 ### Key Findings
@@ -129,13 +135,21 @@ Achieved an R² value of approximately 0.983, indicating a strong predictive rel
 ### Skills Demonstrated
 
 Data Analytics
+
 Statistical Modeling
+
 Regression Analysis
+
 Business Impact Assessment
+
 Energy Systems Analysis
+
 Engineering Economics
+
 Data Visualization
+
 Research Methodology
+
 Industrial Systems Evaluation
 
 ### Impact
