@@ -80,3 +80,64 @@ Autonomous Driving • Vehicle Control Systems • Traffic Flow Modeling • Pyt
 
 This project demonstrates the application of intelligent vehicle control algorithms in autonomous transportation systems. It highlights the ability to translate theoretical traffic models into practical simulation environments and evaluate their effectiveness through data-driven analysis.
 
+
+
+# [Project 3: Power Outage Impact Assessment and Cost Prediction Model for Industrial Companies](https://drive.google.com/drive/u/0/folders/1bAUu1WD1lsh--vFAfmNk5Z3NFscf8uag)
+
+### Overview
+
+Developed a data-driven assessment model to quantify the operational and financial impact of power outages on industrial and commercial companies. The project combined survey research, statistical analysis, and Multiple Linear Regression (MLR) modeling to evaluate how outage frequency and duration affect production losses, operational efficiency, and financial performance. The resulting predictive model enables organizations to estimate potential losses and support resilience planning strategies.
+
+### Problem Statement
+
+Power outages remain a major challenge for industrial and commercial operations, leading to production downtime, revenue loss, equipment damage, and reduced operational efficiency. Many organizations lack a structured approach for estimating the financial consequences of power disruptions and evaluating the effectiveness of mitigation strategies. This project addresses that challenge through predictive analytics and economic impact assessment.
+
+### Key Contributions
+
+Conducted industry-focused research on the economic effects of power outages.
+Designed and administered surveys to collect operational and financial outage data from industrial companies.
+Performed statistical analysis using Excel and Multiple Linear Regression.
+Developed a predictive model for estimating production losses resulting from power outages.
+Evaluated relationships between outage duration, production losses, and operational costs.
+Generated actionable recommendations for improving power resilience and business continuity planning.
+
+### Technologies & Tools
+
+Microsoft Excel
+Statistical Analysis
+Multiple Linear Regression (MLR)
+Data Visualization
+Survey Research
+Engineering Economics
+Predictive Modeling
+
+### Key Findings
+
+Power Reliability
+83% of surveyed companies experienced power outages on a monthly basis.
+Some companies experienced outages lasting more than six hours.
+Financial Impact
+83% of companies reported losses exceeding GHS 20,000 per hour of outage.
+Severe production impacts were reported by most respondents.
+Business Resilience
+Nearly half of surveyed companies relied on generators as backup power systems.
+Many organizations invested significantly in resilience measures to mitigate outage risks.
+Predictive Analytics
+Built a Multiple Linear Regression model to estimate production losses and outage costs.
+Achieved an R² value of approximately 0.983, indicating a strong predictive relationship between outage variables and production losses.
+
+### Skills Demonstrated
+
+Data Analytics
+Statistical Modeling
+Regression Analysis
+Business Impact Assessment
+Energy Systems Analysis
+Engineering Economics
+Data Visualization
+Research Methodology
+Industrial Systems Evaluation
+
+### Impact
+
+This project demonstrates how data analytics and predictive modeling can support industrial decision-making by quantifying outage-related risks, improving resilience planning, and enabling evidence-based investments in backup power infrastructure and operational continuity strategies.
